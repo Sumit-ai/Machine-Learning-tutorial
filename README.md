@@ -1,6 +1,6 @@
 # python-tutorial
 ## Tutorial 1: 
-#### Basic python instruction
+#### Basic python instructions. 
 
 ## Tutorial 2:
 #### Support Vector Machine (SVM), using sckit-learn. 
